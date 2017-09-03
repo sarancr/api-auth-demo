@@ -1,0 +1,32 @@
+[
+  {
+    "productId": 1983921,
+    "name": "Zantac 150 Maximum Strength Cool Mint Tablets",
+    "description":
+      "Look! Sugar-free heartburn relief. Ranitidine tablets 150 mg. Prevents & relieves heartburn associated with acid indigestion & sour stomach. Easy to swallow with water. ",
+    "price": 24.99
+  },
+  {
+    "productId": 8273872,
+    "name":
+      "Prilosec OTC Frequent Heartburn Medicine and Acid Reducer Tablets, 28CT",
+    "description":
+      "Prilosec OTC provides heartburn treatment for frequent heartburn that occurs 2 or more days a week",
+    "price": 44.99
+  },
+  {
+    "productId": 277352,
+    "name": "Magox Magnesium Oxide 400 mg Tablets",
+    "description":
+      "Dietary Supplement. Pharmaceutical grade. Most concentrated form of magnesium. Just one dose delivers over 120% of the daily value. Doctor recommended. Sugar and gluten-free.",
+    "price": 13.99
+  },
+  {
+    "productId": 1983921,
+    "name":
+      "Natural Vitality Natural Calm Anti Stress Original Unflavored Liquid Drink 350mg, 16 OZ",
+    "description":
+      "Magnesium and calcium are fundamental nutrients that need to be in balance with each other in order for you to fully experience good health. Their importance on a cellular level is critical. ",
+    "price": 33.99
+  }
+]
